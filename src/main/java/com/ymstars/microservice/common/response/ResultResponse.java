@@ -1,4 +1,4 @@
-package com.dqx.jq.microservice.common.response;
+package com.ymstars.microservice.common.response;
 
 import java.io.Serializable;
 
