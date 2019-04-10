@@ -13,7 +13,7 @@ public class ResultResponse<T extends Serializable> implements Serializable {
     private static final int SUCCESS_CODE = 0;
     private static final String SUCCESS_MESSAGE = "SUCCESS";
     private static final int ERROR_CODE_UNKNOWN = 999999;
-    private static final String ERROR_MESSAGE_UNKNOWN = "UNKOWN ERROR";
+    private static final String ERROR_MESSAGE_UNKNOWN = "UNKnoWN ERROR";
     private static final long serialVersionUID = -1558569760866186534L;
 
     private Integer code;
